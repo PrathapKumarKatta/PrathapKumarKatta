@@ -33,7 +33,6 @@ I build REST APIs, background workflows, and retrieval-augmented AI tools with *
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -43,7 +42,7 @@ I build REST APIs, background workflows, and retrieval-augmented AI tools with *
 | Data & persistence | SQL, PostgreSQL, pgvector, async SQLAlchemy, Alembic |
 | Background workflows | Redis, Celery, Celery Beat |
 | AI & retrieval | RAG, hybrid search, Sentence Transformers, Tree-sitter, LangGraph |
-| Frontend | React, TypeScript, Next.js, Tailwind CSS |
+| Frontend | React, Next.js, Tailwind CSS |
 | Quality & delivery | pytest, HTTPX, Ruff, Docker Compose, GitHub Actions, Git, Vercel |
 
 ## Featured projects
@@ -53,7 +52,7 @@ I build REST APIs, background workflows, and retrieval-augmented AI tools with *
 
 Workspaces, projects, task assignments, comments, and activity history. Includes optimistic concurrency checks to prevent stale updates and background reminder workflows.
 
-**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Redis · Celery · React · TypeScript
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Redis · Celery · React
 
 [Source code](https://github.com/PrathapKumarKatta/taskflow) · [Live application](https://taskflow-virid-three.vercel.app) · [API documentation](https://taskflow-virid-three.vercel.app/docs)
 
@@ -80,7 +79,7 @@ A LangGraph workflow analyzes a résumé PDF, extracts job requirements, identif
 
 Explore TaskFlow and Codebase Intelligence through interactive architecture simulations, technical write-ups, and a downloadable résumé.
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Three.js
+**Stack:** Next.js · React · Tailwind CSS · GSAP · Three.js
 
 [Source code](https://github.com/PrathapKumarKatta/PRATHAP-PORTFOLIO) · [Visit portfolio](https://kprathap.vercel.app)
 
